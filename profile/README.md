@@ -10,6 +10,8 @@
   <a href="https://legalnaut.com/">Website</a> ·
   <a href="https://legalnaut.com/features">Features</a> ·
   <a href="https://legalnaut.com/demo">Live demo</a> ·
+  <a href="https://legalnaut.com/pricing">Pricing</a> ·
+  <a href="https://legalnaut.com/security">Security</a> ·
   <a href="https://legalnaut.github.io/">Overview</a> ·
   <a href="https://legalnaut.com/blog">Blog</a>
 </p>
@@ -30,6 +32,10 @@ You upload one archive: a ZIP of the file, a mailbox export (.mbox, .pst, .eml, 
 - **Answers with citations.** The AI assistant searches and reads the file before it answers. Every answer and every draft passes a citation check against the records.
 
 The interface runs in English, Polish, German, French, Spanish, Italian, Portuguese, Dutch and Ukrainian, with unlimited users on every plan.
+
+### Who it is for
+
+Litigation teams in [commercial litigation](https://legalnaut.com/for/commercial-litigation), [criminal defence](https://legalnaut.com/for/criminal-defence), [in-house legal](https://legalnaut.com/for/in-house-legal), [solo practice](https://legalnaut.com/for/solo-practice) and [cross-border disputes](https://legalnaut.com/for/cross-border-disputes). If you are weighing it against a chat assistant, read [Legalnaut vs uploading your case file to ChatGPT](https://legalnaut.com/compare/general-ai-assistants).
 
 ### For developers
 
